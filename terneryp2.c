@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 int main () {
-    int a=10 , b=20;
+    int a=10, b=20;
     scanf("%d%d",&a , &b);
 
     a>b ? printf("a is big"): printf("b is big");
